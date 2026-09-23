@@ -8,17 +8,17 @@ A virtual museum exhibition on Baptism and salvation history, built for an 11th-
 
 Nine slides, each introducing something the others do not:
 
-| | Slide | Contribution |
-|---|---|---|
-| I | Introduction | Thesis and CCC 1262 |
-| II | How to Read a Shadow | Type / antitype defined |
-| III | Creation & the Spirit Over the Waters | Life |
-| IV | Noah's Ark & the Great Flood | Judgment and renewal |
-| V | The Crossing of the Red Sea | Liberation |
-| VI | Crossing the Jordan River | Inheritance |
-| VII | Christ Fulfills the Signs | The antitype, plus the Trinitarian theophany |
-| VIII | What Actually Happens | The five graces of Baptism (CCC 1262–1274) |
-| IX | Reading Sacred Art | Five-lens analysis panel |
+| Slide | Contribution |
+|---|---|
+| Introduction | Thesis and CCC 1262 |
+| How to Read a Shadow | Type / antitype defined |
+| Creation & the Spirit Over the Waters | Life |
+| Noah's Ark & the Great Flood | Judgment and renewal |
+| The Crossing of the Red Sea | Liberation |
+| Crossing the Jordan River | Inheritance |
+| Christ Fulfills the Signs | The antitype, plus the Trinitarian theophany |
+| What Actually Happens | The five graces of Baptism (CCC 1262–1274) |
+| Reading Sacred Art | Five-lens analysis panel |
 
 Plus a Sources section with full museum credits.
 
